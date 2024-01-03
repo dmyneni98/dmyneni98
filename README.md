@@ -13,10 +13,10 @@ My name is Dhiraja. I recently graduated with a degree in Computer Science.
 
 I'm looking to work on open source projects! 
 
-Reach me at [Email](mdhiraja@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/dhirajamyneni/)
-[Instagram](https://www.instagram.com/mydhiraja/)
-[Twitter](https://twitter.com/mydhiraja)
+Reach me at [Email](mdhiraja@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/dhirajamyneni/) |
+[Instagram](https://www.instagram.com/mydhiraja/) |
+[Twitter](https://twitter.com/mydhiraja) |
 
 
 <!--
