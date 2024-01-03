@@ -4,7 +4,7 @@ My name is Dhiraja. I recently graduated with a degree in Computer Science.
 
 🔭Work Experience: 
 
-- Software Engineer at Texas State University: Cross-application development on the Nueva Team with React Native and Swift [Sep 2022 - Dec 2023)
+- Software Engineer at Texas State University: Cross-application development on the Nueva Team with React Native and Swift [Sep 2022 - Dec 2023]
 
 😄Current: 
 
