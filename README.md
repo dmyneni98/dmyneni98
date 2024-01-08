@@ -1,6 +1,10 @@
 ### Hi 👋
 
-My name is Dhiraja. I recently graduated with a degree in Computer Science.
+I am a Software Engineer with a Masters in Computer Science, specializing in developing innovative solutions that enhance user experiences and drive engagement. My expertise extends to developing React Native apps with Django and MySQL.
+
+My technical skills include proficiency in C++, Java, JavaScript, Python, CSS, HTML5, Tailwind CSS, PostgreSQL, React Native, AWS, Git, Swift, Jupyter Notebooks, Figma, Linux, SQL, Angular, and MongoDB.
+
+I am passionate about leveraging my skills to contribute to innovative projects and continuously expand my knowledge in the ever-evolving field of technology. 
 
 🔭Work Experience: 
 
@@ -8,7 +12,7 @@ My name is Dhiraja. I recently graduated with a degree in Computer Science.
 
 😄Current: 
 
-- Cloud developer certification
+- Cloud Developer Certification
 - Guitar
 
 I'm looking to work on open source projects! 
