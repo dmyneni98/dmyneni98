@@ -8,6 +8,7 @@ I am passionate about leveraging my skills to contribute to innovative projects 
 
 🔭Work Experience: 
 
+- Software Systems Analyst at Cisco: Full stack engineer with Angular and Java [Feb 2024 - Aug 2024]
 - Software Engineer at Texas State University: Cross-application development on the Nueva Team with React Native and Swift [Sep 2022 - Dec 2023]
 
 😄Current: 
